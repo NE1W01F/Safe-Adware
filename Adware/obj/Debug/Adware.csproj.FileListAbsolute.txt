@@ -1,0 +1,7 @@
+C:\Users\Wolf\source\repos\Adware\Adware\obj\Debug\Adware.csprojAssemblyReference.cache
+C:\Users\Wolf\source\repos\Adware\Adware\obj\Debug\Adware.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\source\repos\Adware\Adware\bin\Debug\start.exe.config
+C:\Users\Wolf\source\repos\Adware\Adware\bin\Debug\start.exe
+C:\Users\Wolf\source\repos\Adware\Adware\bin\Debug\start.pdb
+C:\Users\Wolf\source\repos\Adware\Adware\obj\Debug\start.exe
+C:\Users\Wolf\source\repos\Adware\Adware\obj\Debug\start.pdb

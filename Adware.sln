@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adware", "Adware\Adware.csproj", "{6AB31DD6-1580-41FB-9B04-7397DB6BAE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB31DD6-1580-41FB-9B04-7397DB6BAE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB31DD6-1580-41FB-9B04-7397DB6BAE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB31DD6-1580-41FB-9B04-7397DB6BAE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB31DD6-1580-41FB-9B04-7397DB6BAE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21724438-05F1-4400-9E02-D3DFFDB3EEA4}
+	EndGlobalSection
+EndGlobal
